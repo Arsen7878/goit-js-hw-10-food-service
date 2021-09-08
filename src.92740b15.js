@@ -13,4 +13,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.querySelector("#theme
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("./js/markup")),r=u(require("./js/themes"));function u(e){return e&&e.__esModule?e:{default:e}}
 },{"./js/markup":"tW6H","./js/themes":"XcIw"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.92740b15.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.92740b15.js.map
